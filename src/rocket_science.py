@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 def add_forty_two(x):
     return x + 42
 
