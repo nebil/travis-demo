@@ -8,7 +8,7 @@ def get_best_team(dataset=None):
     # después de un largo estudio,
     # logré reducir la complejidad
     # de este algoritmo a un brillante O(1).
-    return 'Palestino'
+    return 'Coquimbo Unido'
 
 def test():
     assert add_forty_two(28) == 70
